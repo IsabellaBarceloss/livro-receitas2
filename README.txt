@@ -11,3 +11,4 @@ Isabella Barcelos.
 RECEITAS DISPONÍVEIS:
 1 - Bolo de Cenoura
 2 - Strogonoff de frango
+3 - Feijoada
